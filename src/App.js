@@ -5,7 +5,7 @@ import './App.css';
 function App() {
   return (
     <>
-    <Navbar/>
+    <Navbar title="Textutils" about="About Us"/>
     </>
   );
 }
