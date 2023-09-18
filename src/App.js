@@ -6,6 +6,7 @@ function App() {
   return (
     <>
     <Navbar title="Textutils" about="About Us"/>
+    
     </>
   );
 }
